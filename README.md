@@ -1,5 +1,4 @@
 # DFIR-Tips
-Lets Rock !! Gather all our Weaponz
 
 ## Identify malicious macro was enabled & clicked
 
